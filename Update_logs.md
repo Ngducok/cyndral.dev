@@ -1,4 +1,4 @@
-## [v2.6.0] - 2026-09-25 17:00:12
+## [v2.6.0] - 2026-09-25 
 [M] Slayers 2
 + [Added] Auto Dungeon
 + [Added] Auto Use Skills
@@ -6,6 +6,8 @@
 + [Added] Menu auto reroll and travel
 + [Added] Weapon Refinement
 + [Added] Config Import and Export
++ [Added] Menu config save, load and autoload
++ [Added] Tween and TP movement modes for farming, travel and dungeon
 + [Added] FPS Boost
 + [Added] Boss chest wait and search settings
 + [Fixed] Dungeon card selection
